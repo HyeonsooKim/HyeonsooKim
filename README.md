@@ -1,4 +1,7 @@
 # Kim Hyeonsoo 🌱
+Codestates AI 부트캠프를 통해 데이터 분석/엔지니어링, 머신러닝/딥러닝을 학습했습니다.
+PreOnBoarding 백엔드 과정을 통해 Python/Django 기반 백엔드 REST API 개발을 진행했습니다.
+가치있는 서비스를 제공하는 데이터 엔지니어가 되고 싶습니다.
 
 ## Projects
 
