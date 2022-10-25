@@ -1,5 +1,19 @@
 # Kim Hyeonsoo 🌱
 
+## Projects
+
+[게임 로그 데이터 파이프라인 구축](https://github.com/HyeonsooKim/Game-LogData-Pipeline)
+</br>
+[수강생 과제 채점 업데이트 자동화](https://github.com/HyeonsooKim/autoscoring)
+</br>
+[TTS-Preprocessing Backend](https://github.com/HyeonsooKim/TTS-preprocess-backend)
+</br>
+[Fintech Backend](https://github.com/HyeonsooKim/Fintech-sevice)
+</br>
+[Commerce Backend](https://github.com/HyeonsooKim/Commerce-Backend)
+
+</br>
+
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeonsooKim&count_bg=%233D2FCD&title_bg=%23555555&icon=&icon_color=%237B7E8C&title=hits&edge_flat=false)
 </br>
 
