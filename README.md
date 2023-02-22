@@ -22,7 +22,7 @@ PreOnBoarding 백엔드 과정을 통해 Python/Django 기반 백엔드 REST API
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeonsooKim&show_icons=true&theme=radical)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyy994)](https://solved.ac/skyy994)
+<!-- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skyy994)](https://solved.ac/skyy994) -->
 
 ## Skills 📫
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
