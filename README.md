@@ -4,7 +4,7 @@ PreOnBoarding 백엔드 과정을 통해 Python/Django 기반 백엔드 REST API
 가치있는 서비스를 제공하는 데이터 엔지니어가 되고 싶습니다.
 
 ## Projects
-[가계부 API 개발](https://github.com/Backend-Project-Organization/AccountBook)
+[가계부 API 개발](https://github.com/Backend-Project-Organization/AccountBook/tree/dev)
 </br>
 [게임 로그 데이터 파이프라인 구축](https://github.com/HyeonsooKim/Game-LogData-Pipeline)
 </br>
