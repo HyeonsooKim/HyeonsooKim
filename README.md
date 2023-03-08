@@ -6,8 +6,11 @@
 배운 것을 정리하여 전달하는 능력을 통해 코드스테이츠에서 멘토링을 진행하고 있습니다.
 
 ## Projects
+### ~ ing
 [가계부 API 개발](https://github.com/Backend-Project-Organization/AccountBook/tree/dev)
 </br>
+
+### done
 [게임 로그 데이터 파이프라인 구축](https://github.com/HyeonsooKim/Game-LogData-Pipeline)
 </br>
 [수강생 과제 채점 업데이트 자동화](https://github.com/HyeonsooKim/autoscoring)
