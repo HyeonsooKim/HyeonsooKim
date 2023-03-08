@@ -5,6 +5,7 @@ PreOnBoarding 백엔드 과정을 통해 Python/Django 기반 백엔드 REST API
 
 ## Projects
 [가계부 API 개발](https://github.com/Backend-Project-Organization/AccountBook)
+</br>
 [게임 로그 데이터 파이프라인 구축](https://github.com/HyeonsooKim/Game-LogData-Pipeline)
 </br>
 [수강생 과제 채점 업데이트 자동화](https://github.com/HyeonsooKim/autoscoring)
